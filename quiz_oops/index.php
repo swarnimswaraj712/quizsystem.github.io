@@ -77,7 +77,7 @@
 								  <input type="password" class="form-control" name="p" id="pwd" placeholder="Enter password">
 								</div>
 								<div class="form-group">
-								  <label for="pwd">Upload your iamge</label>
+								  <label for="pwd">Upload your image</label>
 								  <input type="file" class="form-control" name="img" >
 								</div>
 								<button type="submit" class="btn btn-default">Submit</button>
